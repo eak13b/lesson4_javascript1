@@ -18,7 +18,7 @@ then comitted to the new remote repository on GitHub created at the
 beginning of the lesson.
 
 ### View Project:
-https://preview.c9users.io/eak13b/kissel_lesson4_javascript1
+https://eak13b.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
 1. I learned how to do some basic coding in JavaScript and was introduced 
