@@ -4,20 +4,24 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+June 17, 2017
 
 ### Student Name:  
-(First and Last Name)
+Emily Kissel
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment the goal was to edit an index.html document to 
+successfully execute a expense calculator application. The page was 
+edited to include several more variables and calculations. This was 
+an introduction to coding with JavaScript. The changes made were 
+then comitted to the new remote repository on GitHub created at the 
+beginning of the lesson.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to do some basic coding in JavaScript and was introduced 
+to some variable declaration, functions, and basic calculations.
+2. I was introduced to 
 
